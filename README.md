@@ -56,3 +56,10 @@ Install `colorls`.
 ```
 gem install colorls
 ```
+
+## gnome-shell
+
+List of extensions :
+* Clipboard indicator
+* Force quit
+* System-monitor
