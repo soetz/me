@@ -18,6 +18,7 @@ git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:
 ```
 
 Put `.zsh-conf` from this repo inside the home folder.
+Put the content of the `zsh-themes` folder of this repo inside the <HOME>/.oh-my-zsh/custom/themes folder.
 
 ## .me
 
